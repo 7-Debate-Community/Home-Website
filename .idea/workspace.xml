@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Edit sponsor jpg location in apply page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/honor.html" beforeDir="false" afterPath="$PROJECT_DIR$/honor.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cuBNphUoQRJAkiN6c1PZrQFYZk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../首页 - HD 专注留学生线上辅导_files" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="" />
+      <created>1591368560951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591368560951</updated>
+      <workItem from="1591368562449" duration="5029000" />
+      <workItem from="1591375758957" duration="7997000" />
+      <workItem from="1591397865909" duration="6015000" />
+      <workItem from="1591459015446" duration="2584000" />
+      <workItem from="1591648105163" duration="9199000" />
+      <workItem from="1591667650246" duration="2250000" />
+      <workItem from="1591707153550" duration="274000" />
+      <workItem from="1592076285878" duration="313000" />
+    </task>
+    <task id="LOCAL-00001" summary="add debate team members">
+      <created>1591370165327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591370165327</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add debate team developer">
+      <created>1591370177180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591370177180</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add committee member and debate team member">
+      <created>1591371003748</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591371003748</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adjust font size">
+      <created>1591371167464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591371167464</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adjust staff classification">
+      <created>1591371612415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591371612415</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adjust staff classification">
+      <created>1591371716365</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591371716365</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update new index.html">
+      <created>1591373001696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591373001696</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modify content">
+      <created>1591379718924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591379718924</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modify acknowledgement and title">
+      <created>1591380042935</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591380042935</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix typo">
+      <created>1591380362277</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591380362277</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add committee member">
+      <created>1591385886820</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591385886820</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Use higher resolution photo, adjust font">
+      <created>1591389664878</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591389664878</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Edit acknowledgement">
+      <created>1591390176159</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591390176159</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add honor section">
+      <created>1591399793026</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591399793026</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add honor section">
+      <created>1591400263449</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591400263449</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add staff tab">
+      <created>1591400445269</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591400445269</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add top speaker">
+      <created>1591408014938</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591408014938</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adjust honor tab menu">
+      <created>1591408384277</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591408384277</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add debate team member">
+      <created>1591409140376</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591409140376</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Adjust navigation bar">
+      <created>1591459251752</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591459251752</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add application web page">
+      <created>1591654607193</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591654607193</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add honor debaters">
+      <created>1591656375562</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591656375562</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Edit apply page section name">
+      <created>1591656509213</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591656509213</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Edit honor navigation bar">
+      <created>1591659294931</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591659294931</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Edit staff navigation bar &amp; sponsor">
+      <created>1591669180153</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591669180153</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Edit sponsor jpg location">
+      <created>1591669251322</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591669251322</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Edit sponsor jpg location in apply page">
+      <created>1591669346079</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591669346079</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add debate team members" />
+    <MESSAGE value="add debate team developer" />
+    <MESSAGE value="add committee member and debate team member" />
+    <MESSAGE value="adjust font size" />
+    <MESSAGE value="adjust staff classification" />
+    <MESSAGE value="update new index.html" />
+    <MESSAGE value="modify content" />
+    <MESSAGE value="modify acknowledgement and title" />
+    <MESSAGE value="fix typo" />
+    <MESSAGE value="Add committee member" />
+    <MESSAGE value="Use higher resolution photo, adjust font" />
+    <MESSAGE value="Edit acknowledgement" />
+    <MESSAGE value="Add honor section" />
+    <MESSAGE value="Add staff tab" />
+    <MESSAGE value="Add top speaker" />
+    <MESSAGE value="Adjust honor tab menu" />
+    <MESSAGE value="Add debate team member" />
+    <MESSAGE value="Adjust navigation bar" />
+    <MESSAGE value="Add application web page" />
+    <MESSAGE value="Add honor debaters" />
+    <MESSAGE value="Edit apply page section name" />
+    <MESSAGE value="Edit honor navigation bar" />
+    <MESSAGE value="Edit staff navigation bar &amp; sponsor" />
+    <MESSAGE value="Edit sponsor jpg location" />
+    <MESSAGE value="Edit sponsor jpg location in apply page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit sponsor jpg location in apply page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591488125070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591488125070" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591669347682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591669347682" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591408201312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1591408201312" />
+    <state x="478" y="116" width="579" height="592" key="find.popup" timestamp="1591398173681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="116" width="579" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591398173681" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591398679464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591398679464" />
+  </component>
+</project>
